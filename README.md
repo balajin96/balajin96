@@ -14,5 +14,4 @@
 
 ![bootstrap (1)](https://user-images.githubusercontent.com/43362896/153766895-5432e376-7920-460f-be40-71454ed4860d.png)
 ![image](https://user-images.githubusercontent.com/43362896/153768840-2cbc5f86-c63a-4944-8c0a-4cbc73e978c2.png)
-![node-js (1)](https://user-images.githubusercontent.com/43362896/153766930-3cbb95b7-a74f-4e94-93f8-afcc0b54dc4d.png)
-
+![njs (2)](https://user-images.githubusercontent.com/43362896/153802177-2c09b90e-64a3-4f84-a301-7bcb90967717.png)
