@@ -1,5 +1,5 @@
 ### Hi there, 
-**I'm studying MERN Full Stack Development & I'm well familiar with UI/UX design & Web Development.**
+**I'm studying MERN Full Stack Development & I'm well familiar with UI/UX design & Web Development**
 
 ![AdobeXD](https://user-images.githubusercontent.com/43362896/153768682-451d1a3c-8a28-418a-ab75-fa886831cf01.png)
 ![fg2 (1)](https://user-images.githubusercontent.com/43362896/153768578-c9ef80ce-faf2-43ec-8a29-4629eebc90c2.png)
