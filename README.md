@@ -8,7 +8,7 @@
 ![html1 (1)](https://user-images.githubusercontent.com/43362896/153802754-64128925-f8a8-4daa-b60b-b318eb65f6b7.png)
 ![c2 (1)](https://user-images.githubusercontent.com/43362896/153802757-685e6b14-6375-42e4-a403-2509fc64491f.png)
 ![js (1)](https://user-images.githubusercontent.com/43362896/153766866-171a144b-042f-4052-80e5-304ed36f71d4.png)
-![mysql (1)](https://user-images.githubusercontent.com/43362896/153766883-aa059f8d-4c31-477c-a9c4-13eb9658736e.png)
+![mySql](https://user-images.githubusercontent.com/43362896/154813732-00b9f7c6-988a-4c68-bceb-c098dff2abc2.png)
 ![php (1)](https://user-images.githubusercontent.com/43362896/153766886-84272026-d096-43ca-a347-62c08d36d167.png)
 ![jquery (1)](https://user-images.githubusercontent.com/43362896/153766906-24c14ac7-f62d-4b51-96c2-403653c175df.png)
 ![AJAX (1)](https://user-images.githubusercontent.com/43362896/153768496-58481156-90fe-4ae9-ba45-92c1e3bb6d75.png)
