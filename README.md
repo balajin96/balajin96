@@ -1,16 +1,49 @@
-<h1>Welcome to my page! </h1>
-<h3>I'm Balaji Natarajan, Front-End developer with the right mix of Functional programming.
-Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development. </h3>
-<br> <br> <br>
+<h1 align="center">Hi Welcome to my page!👋, I'm Balaji Natarajan</h1>
+<h3 align="center">Front-End developer with the right mix of Functional programming.
+Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</h3>
+
+<br>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/balajin96/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Balaji streak" src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br>
+<br>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/balajin96/github-readme-stats"><img alt="Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/balajin96/github-readme-stats"><img alt="Balaji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajin96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<br/>
+<br/>
+
+<a href="https://github.com/balajin96/github-readme-activity-graph"><img alt="Balaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=balajin96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
-![fg2 (1)](https://user-images.githubusercontent.com/43362896/153768578-c9ef80ce-faf2-43ec-8a29-4629eebc90c2.png)
-![vsc (1)](https://user-images.githubusercontent.com/43362896/153769125-c8e27400-4da7-473c-8b33-6aa5933c0fb8.png)
-![html1 (1)](https://user-images.githubusercontent.com/43362896/153802754-64128925-f8a8-4daa-b60b-b318eb65f6b7.png)
-![c2 (1)](https://user-images.githubusercontent.com/43362896/153802757-685e6b14-6375-42e4-a403-2509fc64491f.png)
-![js (1)](https://user-images.githubusercontent.com/43362896/153766866-171a144b-042f-4052-80e5-304ed36f71d4.png)
-![bootstrap (1)](https://user-images.githubusercontent.com/43362896/153766895-5432e376-7920-460f-be40-71454ed4860d.png)
-![image](https://user-images.githubusercontent.com/43362896/153768840-2cbc5f86-c63a-4944-8c0a-4cbc73e978c2.png)
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/balaji-n96/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/balajin96/balajin96/blob/output/github-contribution-grid-snake.gif)
