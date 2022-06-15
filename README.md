@@ -42,7 +42,7 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 
 <a href = "https://www.linkedin.com/in/balaji-n96/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-    ![Snake animation](https://github.com/zieldecastro/zieldecastro/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/balajin96/balajin96/blob/output/github-contribution-grid-snake.svg)
     
 </p>
 
