@@ -4,6 +4,9 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 <br> <br> <br>
 
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
 ![fg2 (1)](https://user-images.githubusercontent.com/43362896/153768578-c9ef80ce-faf2-43ec-8a29-4629eebc90c2.png)
 ![vsc (1)](https://user-images.githubusercontent.com/43362896/153769125-c8e27400-4da7-473c-8b33-6aa5933c0fb8.png)
 ![html1 (1)](https://user-images.githubusercontent.com/43362896/153802754-64128925-f8a8-4daa-b60b-b318eb65f6b7.png)
