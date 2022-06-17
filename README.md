@@ -1,5 +1,5 @@
-<h1 align="center">Hi Welcome to my page!👋, I'm Balaji Natarajan</h1>
-<h3 align="center">Front-End developer with the right mix of Functional programming.
+<h1 align="center">Hi Welcome to my page!👋, </h1>
+<h3 align="center">I'm Balaji Natarajan, Front-End developer with the right mix of Functional programming.
 Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</h3>
 
 <br>
