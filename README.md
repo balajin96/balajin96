@@ -1,4 +1,4 @@
-<h1 align="center">Hi Welcome to my page!👋, </h1>
+<h1 align="center">Hi, Welcome to my page!👋, </h1>
 <h3 align="center">I'm Balaji Natarajan, Front-End developer with the right mix of Functional programming.
 Goal driven person who loves learn new technology and passionate about web development.</h3>
 
