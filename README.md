@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Welcome to my page!👋, </h1>
-<h3 align="center">I'm Balaji Natarajan, Front-End developer with the right mix of Functional programming.
-Goal driven person who loves to learn new technology and passionate about web development.</h3>
+<h3 align="center">I'm Balaji Natarajan, Front-End developer with the right mix of Designing Principles & Functional programming.
+Goal driven person who loves to learn fullstack technology and passionate about web development.</h3>
 
 <br>
 <br>
