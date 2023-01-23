@@ -1,6 +1,6 @@
 <h2 align="center">Hi / Hola / Bonjiur / வணக்கம்🙏, Welcome to my page!👋, </h2>
-<p align="center">I'm <b><i>Balaji,</i></b> Front-End developer with the right mix of <span>Designing Principles & Functional programming<span>.
-<br/>Goal driven person who loves to learn fullstack technology and passionate about web development.</p>
+<h6 align="center">I'm <b><i>Balaji,</i></b> Front-End developer with the right mix of <span>Designing Principles & Functional programming<span>.
+<br/>Goal driven person who loves to learn fullstack technology and passionate about web development.</h6>
 
 <br>
 <br>
