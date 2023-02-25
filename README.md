@@ -2,11 +2,11 @@
 <p align="center">I'm <b><i>Balaji,</i></b> Front-End developer with the right mix of Designing Principles & Functional Programming.
 <br/>Goal driven person who loves to learn fullstack technology and passionate about web development.</p>
 
-## Connect with me:
+## 🌏 Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/balaji-n96/" title="LinkedIn" target="_blank"><img src="https://img.icons8.com/fluent/60/000000/linkedin.png" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🌠 Languages and Tools:
 <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
 </a>
@@ -30,28 +30,23 @@
 </a>
 </p>
 <br>
+## 🚀 SEE MY 2022 GITHUB STATS:
+<img src="./asserts/mystats.png" />
 
-<p align="center">
+## 📈 My Github Streak stats
+<p>
     <a href="https://github.com/balajin96/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Balaji streak" src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Balaji streak" src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=true&stroke=0000&background=1B4F72"/>
     </a>
 </p>
 
-<br>
-<br>
-<img src="./asserts/GitHub-Trends.png" />
-
-<a href="https://www.githubtrends.io/wrapped/balajin96"> SEE MY 2022 GITHUB STATS🔥🔥🔥</a>
-## 📊 My Github Stats 
-##  📊   Language Contributions
-<p align="center">See your overall language breakdown </p> 
+## 📊 Language Contributions
+<p align="left">See your overall language breakdown </p> 
 <img src="https://api.githubtrends.io/user/svg/balajin96/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark"> </img>
-
+<br/>
 ## 📣 Repository Contributions
-See your most contributed repositories
-
+<p align="left">See your most contributed repositories </p> 
 <img  src="https://api.githubtrends.io/user/svg/balajin96/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"></img>
-
 <br/>
 <img alt="Balaji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajin96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
   <br/>
