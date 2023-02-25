@@ -6,7 +6,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/balaji-n96/" title="LinkedIn" target="_blank"><img src="https://img.icons8.com/fluent/60/000000/linkedin.png" /></a>
 
-## 🌠 Languages and Tools:
+<h2>🌠  Languages and Tools: </h2>
 <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
 </a>
@@ -29,39 +29,25 @@
     <img src="https://pics.freeicons.io/uploads/icons/png/2396380601551941189-512.png" width="60" height="60"/>
 </a>
 </p>
-<br>
-## 🚀 SEE MY 2022 GITHUB STATS:
+<br/>
+
+## 🌌 My Github Stats 2023 and 📈 My Github Streaks 
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&theme=dark#gh-dark-mode-only" /> &#160; &#160;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=false&stroke=0000&background=151515" />
+</span>
+<br/>
+<br/>
+
+## 💁🏻 Repository Contributions and 🧠 Language Contributions
+<span>
+<img  src="https://api.githubtrends.io/user/svg/balajin96/repos?time_range=one_year&group=other&theme=dark"/> &#160; &#160; 
+<img src="https://api.githubtrends.io/user/svg/balajin96/langs?time_range=one_year&loc_metric=changed&theme=dark"/>
+</span>
+<br/>
+<br/>
+
+<h2>🚀 My Github stats 2022 <a href="https://www.githubtrends.io/wrapped/balajin96">(link)</a></h2>
 <img src="./asserts/mystats.png" />
-
-## 📈 My Github Streak stats
-<p>
-    <a href="https://github.com/balajin96/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Balaji streak" src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=true&stroke=0000&background=1B4F72"/>
-    </a>
+<br/>
 </p>
-
-## 📊 Language Contributions
-<p align="left">See your overall language breakdown </p> 
-<img src="https://api.githubtrends.io/user/svg/balajin96/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark"> </img>
-<br/>
-## 📣 Repository Contributions
-<p align="left">See your most contributed repositories </p> 
-<img  src="https://api.githubtrends.io/user/svg/balajin96/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"></img>
-<br/>
-<img alt="Balaji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajin96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/balajin96/github-readme-activity-graph"><img alt="Balaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=balajin96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
-<!--     https://github.com/balajin96/balajin96/blob/output/github-contribution-grid-snake.svg     -->
-</p>
-
