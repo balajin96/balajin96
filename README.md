@@ -39,12 +39,19 @@
 
 <br>
 <br>
+<a href="https://www.githubtrends.io/wrapped/balajin96"> SEE MY 2022 GITHUB STATS🔥🔥🔥</a>
+## 📊 My Github Stats 
+##  📊   Language Contributions
+<p align="center">See your overall language breakdown </p> 
+<img src="https://api.githubtrends.io/user/svg/balajin96/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark"> </img>
 
-## 📊 My Github Stats
+## 📣 Repository Contributions
+See your most contributed repositories
 
-  <br/>
-    <a href="https://github.com/balajin96/github-readme-stats"><img alt="Balaji Github Stats" src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/balajin96/github-readme-stats"><img alt="Balaji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajin96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img  src="https://api.githubtrends.io/user/svg/balajin96/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark"></img>
+
+<br/>
+<img alt="Balaji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajin96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></img>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
