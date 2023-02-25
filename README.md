@@ -39,7 +39,7 @@
 
 <br>
 <br>
-<img src="./asserts/GitHub-Tfrends.png" />
+<img src="./asserts/GitHub-Trends.png" />
 
 <a href="https://www.githubtrends.io/wrapped/balajin96"> SEE MY 2022 GITHUB STATS🔥🔥🔥</a>
 ## 📊 My Github Stats 
