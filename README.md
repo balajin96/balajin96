@@ -31,6 +31,10 @@
 </p>
 <br/>
 
+## 🏆 My Github Rank Details
+<img src="https://github-profile-trophy.vercel.app/?username=balajin96&margin-w=15" />
+<br/>
+
 ## 🌌 My Github Stats 2023 and 📈 My Github Streaks 
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&theme=dark#gh-dark-mode-only" /> &#160; &#160;
