@@ -54,4 +54,5 @@
 <h2>🚀 My Github stats 2022 <a href="https://www.githubtrends.io/wrapped/balajin96" target="#" > (link) </a> </h2>
 <img src="./asserts/mystats.png" />
 <br/>
+
 </p>
