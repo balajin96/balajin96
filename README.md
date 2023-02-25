@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<h2>🚀 My Github stats 2022 <a href="https://www.githubtrends.io/wrapped/balajin96" target="_blank">(link)</a></h2>
+<h2>🚀 My Github stats 2022 <a href="https://www.githubtrends.io/wrapped/balajin96" target="_blank" > (link) </a> </h2>
 <img src="./asserts/mystats.png" />
 <br/>
 </p>
