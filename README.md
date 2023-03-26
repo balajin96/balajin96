@@ -38,6 +38,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=balajin96&margin-w=15" />
 <br/>
 
+## 📈 GitHub Monthly Activity Graph:
+[![Balaji's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=balajin96&bg_color=000000&color=00fbff&line=26a641&point=f7d24a&area=true&hide_border=true)](https://github.com/balajin96/github-readme-activity-graph)
+
 ## 🌌 My Github Stats 2023 and 📈 My Github Streaks 
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&theme=dark#gh-dark-mode-only" /> &#160; &#160;
