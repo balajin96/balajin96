@@ -44,10 +44,13 @@
 ## 🌌 My Github Stats 2023 and 📈 My Github Streaks 
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=balajin96&show_icons=true&theme=dark#gh-dark-mode-only" /> &#160; &#160;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balajin96&theme=black-ice&hide_border=false&stroke=0000&background=151515" />
+<img src="https://streak-stats.demolab.com/?user=balajin96&theme=dark" />
+
 </span>
 <br/>
 <br/>
+
+
 
 ## 💁🏻 Repository Contributions and 🧠 Language Contributions
 <span>
