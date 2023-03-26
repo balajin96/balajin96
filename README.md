@@ -1,7 +1,7 @@
 <img src="./asserts/Bottom_up.svg" /> 
 
 <!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&duration=8500&pause=1000&color=8000DE&width=700&lines=Hi+%2F+Hola+%2F+Bonjiur+%2F+%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%F0%9F%99%8F%2C+Welcome+to+my+page!%F0%9F%91%8B%2C" alt="Typing SVG" /></a></h1> -->
-<h2 align="center">Hi / Hola / Bonjiur / வணக்கம்🙏, Welcome to my page!👋, </h2>
+<h2 align="center">Hi / Hola / Bonjiur / வணக்கம்👋</h2>
 <p align="center">I'm <b><i>Balaji,</i></b> Front-End developer with the right mix of Designing Principles & Functional Programming.
 <br/>Goal driven person who loves to learn fullstack technology and passionate about web development.</p>
 
