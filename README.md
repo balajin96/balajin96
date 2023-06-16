@@ -1,4 +1,4 @@
-<p  align="center">Hello, I am Balaji🖐🏽. I am a front-end developer who has a good understanding of design principles and functional programming. <br/> I am highly motivated and enjoy learning full-stack technologies. I have a strong passion for web development.</p>
+<p  align="center">Hello, I am Balaji🖐🏽. I am a front-end developer who has a good understanding of design principles and functional programming. I am highly motivated and enjoy learning full-stack technologies. I have a strong passion for web development.</p>
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/balaji-n96/)
