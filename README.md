@@ -3,12 +3,12 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/balaji-n96/)
 
-[![HTML5](https://img.shields.io/badge/HTML5-FBFCF8?style=flat-square&logo=html5)](https://www.w3schools.com/html/)
-[![Css3](https://img.shields.io/badge/CSS3-0A1172?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
+[![HTML5](https://img.shields.io/badge/html5-FBFCF8?style=flat-square&logo=html5)](https://www.w3schools.com/html/)
+[![Css3](https://img.shields.io/badge/css3-189AB4?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-FBFBF9?style=flat-square&logo=bootstrap)](https://getbootstrap.com)
-[![Javascript](https://img.shields.io/badge/Javascript-242124?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Reactjs](https://img.shields.io/badge/react_JS-594D5B?style=flat-square&logo=react)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/Redux-6C3082?style=flat-square&logo=redux)](https://redux.js.org/)
+[![Javascript](https://img.shields.io/badge/javascript-242124?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Reactjs](https://img.shields.io/badge/react_js-594D5B?style=flat-square&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/redux-6C3082?style=flat-square&logo=redux)](https://redux.js.org/)
 
 <br/>
 <em>__thanks for visiting my github page !.</em>
